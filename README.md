@@ -211,6 +211,11 @@ Shodan é um mecanismo de pesquisa que permite ao usuário encontrar tipos espec
 - ```seu_alvo lang:pt```
     - https://twitter.com/search?q=seu_alvo+lang%3Apt&src=typed_query
     - https://twitter.com/search-advanced
+    
+### Telegram
+O Telegram é um serviço de mensagens instantâneas baseado na nuvem. 
+- ```seu_alvo```
+    - https://tgstat.com/search 
 
 ---
 
